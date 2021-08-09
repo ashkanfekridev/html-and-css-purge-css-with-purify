@@ -1,0 +1,23 @@
+
+html{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	position: relative;
+}
+
+body{
+	direction: rtl;
+}
+
+.container{
+	margin: 0 auto;
+}
+
+.btn{
+	border: none;
+}
+
+#app{
+	padding: 15px
+}
